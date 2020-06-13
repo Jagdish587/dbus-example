@@ -1,0 +1,4 @@
+Send Message to Server uisng command line  
+=========================================
+
+dbus-send --session --type=signal / test.signal.Type.Test string:"Jagdish , How are you working"
